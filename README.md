@@ -3,7 +3,6 @@
 소스코드 블록은 다음과 같이 작성할 수 있습니다.
 
 ```c
-
 #include <stdio.h>
 
 int main(void){
@@ -12,9 +11,10 @@ int main(void){
 
 }
 ```
+
 링크는 다음과 같이 작성할 수 있습니다.
 
-[네이버]{www.naver.com}
+[네이버]{https://www.naver.com}
 
 순서 없는 목록은 다음과 같이 작성할 수 있습니다.
 
